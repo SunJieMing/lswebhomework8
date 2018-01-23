@@ -1,21 +1,3 @@
-/*  For today's homework your job is to write functions
- *  that make the following invocations work.
- *
- *  Example:
- *
- *  greeting('Hey guys', (message) => {
- *     console.log(message);
- *  });
- *
- *  You would then define the greeting function to make the invocation work.
- *
- *  var greeting = (str, cb) => {
- *    cb(str);
- *  };
- *
- */
-
-
 // Write a function called firstItem that passes the first item of the given array to the callback function
 
 var foods = ['pineapple', 'mango', 'ribeye', 'curry', 'tacos', 'ribeye', 'mango'];
